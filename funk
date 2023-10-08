@@ -28,4 +28,4 @@ async def repeat(ctx, times: int, content='repeating...'):
         await ctx.send(content)
 
 
-bot.run('MTE1NTQ0MDM0NDkxODQwMTA0NA.GboXCW.n9lHoNGNZE7dlYCOVWXB5LrLj5fKOQSWRyLVgI')
+bot.run('ваш токен тут')
